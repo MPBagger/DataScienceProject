@@ -4,4 +4,5 @@
 */.ipynb_checkpoints/*
 git/*
 images/*
+!images/text_tabular.png
 Getting started with python.md
